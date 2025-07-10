@@ -16,7 +16,8 @@ I'm looking to collaborate with fellow developers, students, and tech enthusiast
 
 📞 Connect with Me
 
-You can find me on LinkedIn: Anurag Shaw. Let's connect and share our journeys in the tech world!
+You can find me on LinkedIn: https://www.linkedin.com/in/anuragshaw04/ . Let's connect and share our journeys in the tech world!
+For my porfolio you can visit : https://3-d-portfolie.vercel.app/
 
 😄 Pronouns
 
